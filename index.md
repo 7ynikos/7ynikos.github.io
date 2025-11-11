@@ -16,7 +16,7 @@ view [[online resume]][2]{: class="noline"}
 
 or [my reading list][1]{: class="noline"}
 
- I am learning how to cook, do check my [recipes 🍳][3]{: class="noline"}
+
 
 ## recent posts:
 
