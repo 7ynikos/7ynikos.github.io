@@ -3,7 +3,7 @@ layout: post
 title: setting up cloud folder sync with rclone
 tags: linux guide
 ---
-
+I use obsidian for notetaking, and i really want to sync my files so i can access them from anywhere, but i dont want to pay so much for the features.
 Having some (or all of) your files synced with a cloud service provider is a good call. It is helpful to have backup in this form and it makes the files accessible from any device (provided you have an internet connection). But most cloud providers provide client programs only for Windows or Mac. As of 2022, only Dropbox provides an official client for Linux. But sadly, their free plan only provides 5 GB of storage. I, being broke, prefer to have the 15 GB of free storage provided by Google drive. It is enough to have my most important files backed up. So I started looking up hacky ways to set up a system that syncs my files with Google drive. 
 
 After testing different methods, I finally settled on this method that uses [`rclone`](https://rclone.org/) for mounting cloud storage. `rclone` works with almost all cloud providers and all their plans (both free and premium) so you should have no issues with it.
