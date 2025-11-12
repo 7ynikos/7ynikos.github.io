@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my note-making journey and vimwiki
-date: 2021-05-30 21:00 +0530
+date: 2025-11-11 
 tags: productivity
 ---
 
