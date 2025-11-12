@@ -1,7 +1,7 @@
 ---
 layout: post
 title: social circle, important?
-date: 2021-07-30 23:46 +0530
+date: 2025-11-11 23:46 +0530
 tags: random
 ---
 
