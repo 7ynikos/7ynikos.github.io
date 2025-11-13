@@ -14,7 +14,7 @@ that's 2-3 hours of my day wasted. I could've been productive at this time. and 
 
 so I've decided to use myself as a test subject for this experiment, going in from now, after this post, you won't see me for a week. you may wonder how I'll be going through the day.
 
-
+| item                                 |
 |--------------------------------------|
 | `wakeup`                             |
 | `2 study sessions  `                 |
