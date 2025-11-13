@@ -20,8 +20,7 @@ so I've decided to use myself as a test subject for this experiment, going in fr
 | `2 study sessions  `                 |
 | `school (7 hours)`                 |
 | `7 study sessions`             |
-
-| any break taken; read a book, journal, or watch a video from the curated list |
+| **`any break taken; read a book, journal, or watch a video from the curated list`** |
 
 
 I'll be following a similar pattern for weekends too.
