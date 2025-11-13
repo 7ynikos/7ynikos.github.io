@@ -18,7 +18,7 @@ so I've decided to use myself as a test subject for this experiment, going in fr
 |--------------------------------------|
 | `wakeup`                             |
 | `2 study sessions  `                 |
-| **`any break, either a book, journalling, or the curated video list.`** |
+| **`any break:  book, journal, or the curated video list.`** |
 | `school (7 hours)`                 |
 | `7 study sessions`             |
 
