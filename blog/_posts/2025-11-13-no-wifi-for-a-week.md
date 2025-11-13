@@ -6,7 +6,7 @@ tag: productivity
 
 >"A WEEK WITHOUT WIFI?"
 
-honestly, think about it `connectivity` is the reason we are ever so distracted. constantly connected to people, not that it's bad but— to entertainment. entertainment is at our fingertips, several ways of stimulus. which leads to overstimulation, and no mindset is going to help us anymore, none of us have the will power for it. 
+honestly, think about it `connectivity` is the reason we are ever so distracted. constantly connected to people, not that it's bad but— to entertainment. `entertainment` is at our fingertips, several ways of stimulus. which leads to `overstimulation`, and no mindset is going to help us anymore, none of us have the will power for it. 
 I'm honestly unsure about myself into this experiment too.
 
 i average around 5 hours screentime per day, around which 2-3 hours are non-productive.
@@ -14,13 +14,13 @@ that's 2-3 hours of my day wasted. I could've been productive at this time. and 
 
 so I've decided to use myself as a test subject for this experiment, going in from now, after this post, you won't see me for a week. you may wonder how I'll be going through the day.
 
-| Routine Item                         |
+
 |--------------------------------------|
-| WAKEUP                               |
-| 2 STUDY SESSIONS                     |
-| LEISURE READING (INSTEAD OF SCROLLING) |
-| SCHOOL (7 HOURS)                     |
-| 7 STUDY SESSIONS (W)                 |
+| `wakeup`                             |
+| `2 study sessions  `                 |
+| **`any break, either a book, journalling, or the curated video list.`** |
+| `school (7 hours)`                 |
+| `7 study sessions`             |
 
 
 I'll be follow a similar pattern for weekends too.
