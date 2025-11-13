@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "no wifi for a week (self-experiment)"
-tags: productivity
+title: "no wifi week"
+tag: productivity
 ---
 
 >"A WEEK WITHOUT WIFI?"
