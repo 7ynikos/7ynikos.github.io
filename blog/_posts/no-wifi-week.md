@@ -1,8 +1,7 @@
 ---
 layout: post
-title: no wifi for a week (self-experiment)
+title: "no wifi for a week (self-experiment)"
 tags: productivity
-date: 2025-11-13
 ---
 
 >"A WEEK WITHOUT WIFI?"
