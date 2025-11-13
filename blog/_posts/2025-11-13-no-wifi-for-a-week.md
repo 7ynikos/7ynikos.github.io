@@ -23,10 +23,10 @@ so I've decided to use myself as a test subject for this experiment, going in fr
 | `7 study sessions`             |
 
 
-I'll be follow a similar pattern for weekends too.
-I log my study times using YPT, but I won't do it because my phone has cellular data so I'll probably start using it, I need to cut everything off. I'll use a kitchen timer and a book to log my study times. I have downloaded few lectures just in case. I'm going all in. 
+I'll be following a similar pattern for weekends too.
+I log my study times using `YPT`, but I won't do it because my phone has cellular data so I'll probably start using it, I need to cut everything off. I'll use a `kitchen timer` and a `book` to `log my study times`. I have downloaded few lectures just in case. I'm going all in. 
 I've also downloaded few videos from which I can gain something, I will be making notes of them, and will be posting them.
 
-also I've coded a time-tracking cli app so i might use that too since I can plug in how many sessions, and at the end of the day a screenshot is enough to show the complete days study sessions. but I'm not sure let's see, I might record YPT from a dummy phone with no cellular data, but we'll see.
+also I've coded a time-tracking cli app so i might use that too since I can plug in how many sessions, and at the end of the day a screenshot is enough to show the complete days study sessions. but I'm not sure let's see, I might record `YPT` from a dummy phone with no cellular data, but we'll see.
 
 >"THEY DONT KNOW ME SON"
